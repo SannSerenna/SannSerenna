@@ -2,8 +2,10 @@ SOBRE MIM...
 
 👋 Olá, eu sou a Sandra
 
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+🤔 Explorando novas tecnologias e desenvolvendo soluções de software. 
+
 🎓 Estudando Especialização Back-End JAVA na plataforma EBAC.
+
 💼 Trabalhando como Analista de Implantação na FISERV.
 
   ---------------------------------------------------------------------------------------------------
