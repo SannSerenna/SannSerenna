@@ -1,6 +1,7 @@
 SOBRE MIM...
 
-👋 Olá, eu sou a Sandra 🧜‍♀️
+👋 Olá, eu sou a Sandra 🧜‍♀️                                                         ![image](https://github.com/user-attachments/assets/cea1f236-60ef-4273-acc8-ff5152eb06cd)
+
 
 🤔 Explorando novas tecnologias e desenvolvendo soluções de software. 
 
