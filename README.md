@@ -12,9 +12,13 @@ SOBRE MIM...
 
   MINHAS SKILLS
 
-![image](https://github.com/user-attachments/assets/2670d35f-8cce-457e-b9b8-dcd2cd447e61) ![image](https://github.com/user-attachments/assets/e022c4c2-55df-4d36-93e5-a26f8f546176) 
-![image](https://github.com/user-attachments/assets/f624776b-4e56-4288-b7dd-4c532bd82a3b) ![image](https://github.com/user-attachments/assets/7dbb1ff8-d7d1-4de1-9c6f-c909553252b2)
-![image](https://github.com/user-attachments/assets/4cf3a07b-0530-4599-8d58-a69aefc0b590) ![image](https://github.com/user-attachments/assets/22fb99e0-bee2-4699-be3e-7f68908a209e)
+Aplicações e dados
+
+![image](https://github.com/user-attachments/assets/c6184009-11cd-42ed-8f92-f0de1f7fdab0)![image](https://github.com/user-attachments/assets/77d773af-51b9-4000-8246-65917d6b7bf9)![image](https://github.com/user-attachments/assets/6a6912cd-e292-471a-ae1a-eed937b110e3)![image](https://github.com/user-attachments/assets/63c46e66-15fc-419e-920b-ec1b6e70406d)![image](https://github.com/user-attachments/assets/1e7d4509-1a9b-433e-87d4-b2c79f319c8d)
+
+
+
+
 
 
 
