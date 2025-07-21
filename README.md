@@ -35,7 +35,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SannSerenna&layout=compact&langs_count=6&theme=tokyonight)
 
+![Visitantes](https://komarev.com/ghpvc/?username=SannSerenna&label=Visualizações&color=blue&style=flat)
+
  -------------------------------------------------------------------------------------------------------
+
 
  
 
