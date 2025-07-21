@@ -33,6 +33,7 @@
 
 ![image](https://github.com/user-attachments/assets/0932e13f-a07c-4fae-9762-5aaef063ec81) ![image](https://github.com/user-attachments/assets/53e3fc10-f4c3-48b0-9701-a84e188b1ffc)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SannSerenna&layout=compact&langs_count=6&theme=tokyonight)
 
  -------------------------------------------------------------------------------------------------------
 
