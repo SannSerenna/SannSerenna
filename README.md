@@ -14,7 +14,7 @@
 
 🥰 O sonho da minha vida é um dia ser uma desenvolvedora. 
 
-<h5>"A SORTE FAVORECE OS DESTEMIDOS". Alexandre, O Grande.</h5>
+<h5>"A SORTE FAVORECE OS DESTEMIDOS".</h5>
 
   ---------------------------------------------------------------------------------------------------
 
